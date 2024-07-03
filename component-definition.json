@@ -146,6 +146,7 @@
                 "template": {
                   "name": "Teaser",
                   "model": "teaser",
+                  "style": "left",
                   "foreground_title": "Teaser default title",
                   "foreground_titleType": "h2"
                 }
