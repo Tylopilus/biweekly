@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p41452-e1347946.adobeaemcloud.com//bin/franklin.delivery/tylopilus/biweekly/main"
-    type: "markup"
-    suffix: ".html"
+    url: 'https://author-p41452-e1347946.adobeaemcloud.com/bin/franklin.delivery/tylopilus/biweekly/main'
+    type: 'markup'
+    suffix: '.html'
